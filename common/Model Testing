@@ -7,6 +7,6 @@ False Positive:predict 1, truth label is 0
 Confusion Matrix:  
 predicted class    
 | da    |class 1|class 0|  
-| ----- |:-----:|:-----:| 
+|---|---|---| 
 |class 1|   TP  |   FN  |  
 |class 2|   FP  |   TN  |  

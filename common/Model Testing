@@ -1,1 +1,11 @@
-aha
+AUC ：(曲线下面积)Area Under the Curve  
+AUROC ：(接受者操作特征曲线下面积)Area Under the Receiver Operating Characteristic curve  
+True Negative:predict 0, truth label is 0  
+False Negative:predict 0, truth label is 1  
+True Positive:predict 1, truth label is 1  
+False Positive:predict 1, truth label is 0  
+Confusion Matrix:  
+        |predicted class|
+        |class 1|class 0|
+|class 1|   TP  |   FN  |
+|class 2|   FP  |   TN  |
